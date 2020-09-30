@@ -1,0 +1,35 @@
+/* section {
+    width: 1000px;
+    height: 400px;
+}
+
+#a {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#b {
+    width: 800px;
+    height: 200px;
+}
+
+.footer-section .footer-container {
+    background-color: red;
+}
+
+.footer-section .footer-container #b {
+    background-color: pink;
+}
+
+.footer-section .footer-container #b {
+    background-color: black;
+}
+
+.footer-section .footer-container_2 {
+    background-color: blue;
+} */
+
+body {
+    background-image: url("../images/background.jpg");
+}
